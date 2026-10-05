@@ -229,8 +229,7 @@ MMMUT B.Tech Computer Science & Engineering Core Curriculum
 I am always keen to discuss competitive programming strategies, open-source projects, machine learning architectures, and software engineering opportunities.
 
 - 💼 **LinkedIn**: [linkedin.com/in/tushar-c-60b0b3372](https://www.linkedin.com/in/tushar-c-60b0b3372/)
-- 🌐 **Portfolio**: [BuiltByTushar/My_Portfolio](https://github.com/BuiltByTushar/My_Portfolio)
-- 📧 **Institutional Email**: [tushar.cse@mmmut.ac.in](mailto:tushar.cse@mmmut.ac.in)
+- 🌐 **Portfolio**: [My_Portfolio](https://code-tushar-portfolio.vercel.app/)
 - 🏆 **Codeforces**: [Code_Tushar](https://codeforces.com/profile/Code_Tushar)
 - ⚡ **LeetCode**: [Code_Tushar](https://leetcode.com/u/Code_Tushar/)
 - ⭐ **CodeChef**: [code_tushr](https://www.codechef.com/users/code_tushr)
@@ -244,4 +243,3 @@ I am always keen to discuss competitive programming strategies, open-source proj
 ⭐ **Thanks for stopping by! Feel free to star my repositories if you find something useful!** ⭐
 
 </div>
->>>>>>> 486eed5 (updated)
