@@ -1,0 +1,10 @@
+{
+  "name": "builtbytushar-profile",
+  "version": "1.0.0",
+  "description": "GitHub Profile README & Live CP Stats Sync Engine for @BuiltByTushar",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update-stats": "node scripts/update-readme-stats.mjs"
+  }
+}
