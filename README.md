@@ -72,7 +72,7 @@ I am a **Computer Science & Engineering undergraduate (2025–2029)** at **Madan
 
 | 🏆 **Platform** | 👤 **Handle** | 📊 **Live Rating / Rank** | 🎯 **Problems Solved** | 🔗 **Profile Link** |
 | :--- | :--- | :--- | :--- | :--- |
-| <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="18" height="18" alt="LeetCode" /> **LeetCode** | [`@Code_Tushar`](https://leetcode.com/u/Code_Tushar/) | **Global #12,79,933** | **137 Solved** <br/> 🟢 90 Easy &bull; 🟡 46 Med &bull; 🔴 1 Hard | [Visit Profile ↗](https://leetcode.com/u/Code_Tushar/) |
+| <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="18" height="18" alt="LeetCode" /> **LeetCode** | [`@Code_Tushar`](https://leetcode.com/u/Code_Tushar/) | **Global #1,279,933** | **137 Solved** <br/> 🟢 90 Easy &bull; 🟡 46 Med &bull; 🔴 1 Hard | [Visit Profile ↗](https://leetcode.com/u/Code_Tushar/) |
 | <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="18" height="18" alt="Codeforces" /> **Codeforces** | [`@Code_Tushar`](https://codeforces.com/profile/Code_Tushar) | **1154** (Max 1205) <br/> `NEWBIE` | **127 Problems** (Distinct Solved) | [Visit Profile ↗](https://codeforces.com/profile/Code_Tushar) |
 | <img src="https://cdn.simpleicons.org/codechef/5B4638" width="18" height="18" alt="CodeChef" /> **CodeChef** | [`@code_tushr`](https://www.codechef.com/users/code_tushr) | **1420** (2★) <br/> `Div 2` &bull; #39,847 Global | **45+ Problems** (Contest Contender) | [Visit Profile ↗](https://www.codechef.com/users/code_tushr) |
 
@@ -90,7 +90,7 @@ CodeChef Progress : [███████████████████�
   <img src="https://img.shields.io/badge/CodeChef-1420%20(2%E2%98%85)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge" />
 </p>
 
-<sub>🔄 <i>Auto-synchronized by GitHub Actions &bull; Last updated: Mon, 05 Oct 2026 14:40:21 GMT</i></sub>
+<sub>🔄 <i>Auto-synchronized by GitHub Actions &bull; Last updated: Mon, 05 Oct 2026 14:49:55 GMT</i></sub>
 </div>
 <!-- CP_STATS_END -->
 
