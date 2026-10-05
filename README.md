@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-=======
 <div align="center">
 
 <img src="https://github.com/BuiltByTushar.png" width="130" height="130" style="border-radius: 50%; max-width: 100%; border: 3px solid #22c55e;" alt="Tushar Choudhary" />
