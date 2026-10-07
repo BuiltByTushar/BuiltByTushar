@@ -67,25 +67,25 @@ I am a **Computer Science & Engineering undergraduate (2025–2029)** at **Madan
 
 | 🏆 **Platform** | 👤 **Handle** | 📊 **Live Rating / Rank** | 🎯 **Problems Solved** | 🔗 **Profile Link** |
 | :--- | :--- | :--- | :--- | :--- |
-| <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="18" height="18" alt="LeetCode" /> **LeetCode** | [`@Code_Tushar`](https://leetcode.com/u/Code_Tushar/) | **Global #1,280,888** | **137 Solved** <br/> 🟢 90 Easy &bull; 🟡 46 Med &bull; 🔴 1 Hard | [Visit Profile ↗](https://leetcode.com/u/Code_Tushar/) |
-| <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="18" height="18" alt="Codeforces" /> **Codeforces** | [`@Code_Tushar`](https://codeforces.com/profile/Code_Tushar) | **1154** (Max 1205) <br/> `NEWBIE` | **127 Problems** (Distinct Solved) | [Visit Profile ↗](https://codeforces.com/profile/Code_Tushar) |
+| <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="18" height="18" alt="LeetCode" /> **LeetCode** | [`@Code_Tushar`](https://leetcode.com/u/Code_Tushar/) | **Global #1,281,653** | **137 Solved** <br/> 🟢 90 Easy &bull; 🟡 46 Med &bull; 🔴 1 Hard | [Visit Profile ↗](https://leetcode.com/u/Code_Tushar/) |
+| <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="18" height="18" alt="Codeforces" /> **Codeforces** | [`@Code_Tushar`](https://codeforces.com/profile/Code_Tushar) | **1154** (Max 1205) <br/> `NEWBIE` | **130 Problems** (Distinct Solved) | [Visit Profile ↗](https://codeforces.com/profile/Code_Tushar) |
 | <img src="https://cdn.simpleicons.org/codechef/5B4638" width="18" height="18" alt="CodeChef" /> **CodeChef** | [`@code_tushr`](https://www.codechef.com/users/code_tushr) | **1420** (2★) <br/> `Div 2` &bull; #39,847 Global | **45+ Problems** (Contest Contender) | [Visit Profile ↗](https://www.codechef.com/users/code_tushr) |
 
-### 📈 Aggregate Problem Solving Progress: **309+ Problems**
+### 📈 Aggregate Problem Solving Progress: **312+ Problems**
 ```text
 LeetCode Solved   : [███████████████████░░░░░░░░░░░░░░░░] 137 Solved (90 Easy / 46 Med / 1 Hard)
-Codeforces Solved : [██████████████████░░░░░░░░░░░░░░░░░] 127 Solved (Rating: 1154 / Max: 1205)
+Codeforces Solved : [██████████████████░░░░░░░░░░░░░░░░░] 130 Solved (Rating: 1154 / Max: 1205)
 CodeChef Progress : [█████████████████████████░░░░░░░░░░] 1420 Rating (2★ • Div 2)
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20DSA%20Solved-309%2B-22c55e?style=for-the-badge&logo=codeforces&logoColor=white" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Total%20DSA%20Solved-312%2B-22c55e?style=for-the-badge&logo=codeforces&logoColor=white" alt="Total Solved" />
   <img src="https://img.shields.io/badge/LeetCode-137%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
   <img src="https://img.shields.io/badge/Codeforces-1154%20(newbie)-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge" />
   <img src="https://img.shields.io/badge/CodeChef-1420%20(2%E2%98%85)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge" />
 </p>
 
-<sub>🔄 <i>Auto-synchronized by GitHub Actions &bull; Last updated: Wed, 07 Oct 2026 04:00:55 GMT</i></sub>
+<sub>🔄 <i>Auto-synchronized by GitHub Actions &bull; Last updated: Wed, 07 Oct 2026 18:21:36 GMT</i></sub>
 </div>
 <!-- CP_STATS_END -->
 
