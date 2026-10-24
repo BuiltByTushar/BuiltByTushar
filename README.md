@@ -67,25 +67,25 @@ I am a **Computer Science & Engineering undergraduate (2025–2029)** at **Madan
 
 | 🏆 **Platform** | 👤 **Handle** | 📊 **Live Rating / Rank** | 🎯 **Problems Solved** | 🔗 **Profile Link** |
 | :--- | :--- | :--- | :--- | :--- |
-| <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="18" height="18" alt="LeetCode" /> **LeetCode** | [`@Code_Tushar`](https://leetcode.com/u/Code_Tushar/) | **Global #1,292,750** | **137 Solved** <br/> 🟢 90 Easy &bull; 🟡 46 Med &bull; 🔴 1 Hard | [Visit Profile ↗](https://leetcode.com/u/Code_Tushar/) |
+| <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="18" height="18" alt="LeetCode" /> **LeetCode** | [`@Code_Tushar`](https://leetcode.com/u/Code_Tushar/) | **Global #1,292,750** | **140 Solved** <br/> 🟢 90 Easy &bull; 🟡 49 Med &bull; 🔴 1 Hard | [Visit Profile ↗](https://leetcode.com/u/Code_Tushar/) |
 | <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="18" height="18" alt="Codeforces" /> **Codeforces** | [`@Code_Tushar`](https://codeforces.com/profile/Code_Tushar) | **1121** (Max 1205) <br/> `NEWBIE` | **130 Problems** (Distinct Solved) | [Visit Profile ↗](https://codeforces.com/profile/Code_Tushar) |
 | <img src="https://cdn.simpleicons.org/codechef/5B4638" width="18" height="18" alt="CodeChef" /> **CodeChef** | [`@code_tushr`](https://www.codechef.com/users/code_tushr) | **1415** (2★) <br/> `Div 2` &bull; #41,850 Global | **45+ Problems** (Contest Contender) | [Visit Profile ↗](https://www.codechef.com/users/code_tushr) |
 
-### 📈 Aggregate Problem Solving Progress: **312+ Problems**
+### 📈 Aggregate Problem Solving Progress: **315+ Problems**
 ```text
-LeetCode Solved   : [███████████████████░░░░░░░░░░░░░░░░] 137 Solved (90 Easy / 46 Med / 1 Hard)
+LeetCode Solved   : [████████████████████░░░░░░░░░░░░░░░] 140 Solved (90 Easy / 49 Med / 1 Hard)
 Codeforces Solved : [██████████████████░░░░░░░░░░░░░░░░░] 130 Solved (Rating: 1121 / Max: 1205)
 CodeChef Progress : [█████████████████████████░░░░░░░░░░] 1415 Rating (2★ • Div 2)
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20DSA%20Solved-312%2B-22c55e?style=for-the-badge&logo=codeforces&logoColor=white" alt="Total Solved" />
-  <img src="https://img.shields.io/badge/LeetCode-137%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
+  <img src="https://img.shields.io/badge/Total%20DSA%20Solved-315%2B-22c55e?style=for-the-badge&logo=codeforces&logoColor=white" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/LeetCode-140%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
   <img src="https://img.shields.io/badge/Codeforces-1121%20(newbie)-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge" />
   <img src="https://img.shields.io/badge/CodeChef-1415%20(2%E2%98%85)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge" />
 </p>
 
-<sub>🔄 <i>Auto-synchronized by GitHub Actions &bull; Last updated: Fri, 23 Oct 2026 16:21:24 GMT</i></sub>
+<sub>🔄 <i>Auto-synchronized by GitHub Actions &bull; Last updated: Sat, 24 Oct 2026 03:03:00 GMT</i></sub>
 </div>
 <!-- CP_STATS_END -->
 
